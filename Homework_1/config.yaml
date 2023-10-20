@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+login: GB2023059a00e4
+pswd: e8b141b383
+
+title: New_title
+description: New_description_for_test_HW
+content: content_content_content_content_content_content_content_content_content_content_content_content_
